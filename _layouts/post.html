@@ -1,0 +1,11 @@
+---
+layout: default
+---
+<article class="article wrap">
+  <a class="back" href="{{ '/#notes' | relative_url }}">← 全部笔记</a>
+  <p class="eyebrow">{{ page.category }} / <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%Y.%m.%d' }}</time></p>
+  <h1>{{ page.title }}</h1>
+  <p class="lede">{{ page.description }}</p>
+  <div class="prose">{{ content }}</div>
+  <aside class="article-cta"><p class="eyebrow">把想法变成画面</p><h2>你的下一幕，从一句话开始。</h2><p>在 Flying Car AI 中探索飞行汽车视频创作。</p><a class="button" href="https://flyingcar-ai.app/">访问 Flying Car AI ↗</a></aside>
+</article>

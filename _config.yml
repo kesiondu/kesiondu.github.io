@@ -1,0 +1,23 @@
+title: Roadster 2026 Notes
+description: Tesla Roadster 2026 主题 AI 视频创作笔记：场景设计、提示词与飞行汽车影像。
+url: https://kesiondu.github.io
+baseurl: ""
+lang: zh-CN
+timezone: Asia/Shanghai
+permalink: /notes/:title/
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+exclude: [README.md, Gemfile, Gemfile.lock]
