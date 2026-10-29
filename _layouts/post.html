@@ -6,6 +6,11 @@ layout: default
   <p class="eyebrow">{{ page.category }} / <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%Y.%m.%d' }}</time></p>
   <h1>{{ page.title }}</h1>
   <p class="lede">{{ page.description }}</p>
+  {% if page.image %}<figure class="post-cover"><img src="{{ page.image | relative_url }}" alt="{{ page.image_alt | escape }}" width="1086" height="1448" fetchpriority="high"></figure>{% endif %}
   <div class="prose">{{ content }}</div>
+  {% if page.cta_url %}
+  <aside class="article-cta"><p class="eyebrow">{{ page.cta_eyebrow }}</p><h2>{{ page.cta_title }}</h2><p>{{ page.cta_description }}</p><a class="button" href="{{ page.cta_url }}">{{ page.cta_label }}</a></aside>
+  {% else %}
   <aside class="article-cta"><p class="eyebrow">把想法变成画面</p><h2>你的下一幕，从一句话开始。</h2><p>在 Flying Car AI 中探索飞行汽车视频创作。</p><a class="button" href="https://flyingcar-ai.app/">访问 Flying Car AI ↗</a></aside>
+  {% endif %}
 </article>
