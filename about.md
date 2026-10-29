@@ -1,23 +1,23 @@
 ---
-title: 关于 Kesion Journal
+title: About Kesion Journal
 permalink: /about/
 layout: post
-description: 关于人工智能、数字产品与创作实践的独立记录。
-category: 关于
+description: Independent writing on artificial intelligence, digital products, and creative work.
+category: About
 ---
 
-Kesion Journal 由 [kesiondu](https://github.com/kesiondu) 维护，是一本持续更新的个人博客。
+Kesion Journal is an independent blog maintained by [kesiondu](https://github.com/kesiondu).
 
-## 这里写什么
+## What you will find here
 
-- **人工智能**：从模型能力到真实工作流，关注技术如何被使用。
-- **产品观察**：讨论工具、体验与把想法变成产品的过程。
-- **创作实践**：分享视频、内容与数字作品的制作方法。
+- **Artificial intelligence:** Looking beyond model capabilities to understand how people use AI in real workflows.
+- **Product thinking:** Exploring tools, user experiences, and the process of turning an idea into a product.
+- **Creative practice:** Practical approaches to video, publishing, and making digital work.
 
-博客从具体的创作实验开始，也会继续扩展到更广泛的技术与产品话题。已有的 Roadster 主题文章是创作实践的一部分。
+The journal began with specific creative experiments and continues to explore broader questions about technology and products. The earlier Roadster articles remain part of that creative archive.
 
-## 项目与链接
+## Projects and links
 
-在[项目页](/projects/)可以找到博客介绍的相关工具。文章中的项目链接会保留其上下文；涉及 AI 生成的画面，会与真实事件或产品事实作出区分。
+The [projects page](/projects/) brings together tools discussed on the blog. Project links appear in context, and AI-generated scenes are distinguished from real events and verified product information.
 
-通过 [RSS](/feed.xml) 订阅更新，或访问我的 [GitHub](https://github.com/kesiondu)。
+Follow new articles through the [RSS feed](/feed.xml), or find me on [GitHub](https://github.com/kesiondu).

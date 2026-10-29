@@ -1,8 +1,8 @@
 title: Kesion Journal
-description: 关于人工智能、数字产品与创作实践的独立博客。分享深入观察、实用方法和项目笔记。
+description: An independent blog on artificial intelligence, digital products, and creative work. In-depth perspectives, practical guides, and project notes.
 url: https://kesiondu.github.io
 baseurl: ""
-lang: zh-CN
+lang: en
 timezone: Asia/Shanghai
 permalink: /notes/:title/
 markdown: kramdown
@@ -20,4 +20,4 @@ defaults:
       type: posts
     values:
       layout: post
-exclude: [README.md, Gemfile, Gemfile.lock]
+exclude: [README.md, Gemfile, Gemfile.lock, exports]

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="{{ page.lang | default: site.lang | default: 'zh-CN' }}">
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -10,12 +10,12 @@
   <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
 </head>
 <body>
-  <a class="skip" href="#main">跳到正文</a>
+  <a class="skip" href="#main">Skip to content</a>
   <header class="header wrap">
     <a class="brand" href="{{ '/' | relative_url }}">K<span class="brand-name">Kesion Journal</span></a>
-    <nav aria-label="主导航"><a href="{{ '/#notes' | relative_url }}">文章</a><a href="{{ '/projects/' | relative_url }}">项目</a><a href="{{ '/about/' | relative_url }}">关于</a><a class="nav-cta" href="{{ '/feed.xml' | relative_url }}">订阅 RSS ↗</a></nav>
+    <nav aria-label="Main navigation"><a href="{{ '/#notes' | relative_url }}">Articles</a><a href="{{ '/projects/' | relative_url }}">Projects</a><a href="{{ '/about/' | relative_url }}">About</a><a class="nav-cta" href="{{ '/feed.xml' | relative_url }}">Subscribe via RSS ↗</a></nav>
   </header>
   <main id="main">{{ content }}</main>
-  <footer class="wrap footer"><div>KESION JOURNAL <span>Ideas, tools &amp; things worth making.</span></div><div><a href="{{ '/feed.xml' | relative_url }}">RSS 订阅</a> · <a href="https://github.com/kesiondu/kesiondu.github.io">GitHub</a></div><p>© {{ site.time | date: '%Y' }} Kesion Journal · 关于 AI、产品与创作的独立记录。</p></footer>
+  <footer class="wrap footer"><div>KESION JOURNAL <span>Ideas, tools &amp; things worth making.</span></div><div><a href="{{ '/feed.xml' | relative_url }}">RSS feed</a> · <a href="https://github.com/kesiondu/kesiondu.github.io">GitHub</a></div><p>© {{ site.time | date: '%Y' }} Kesion Journal · Independent writing on AI, products, and creative work.</p></footer>
 </body>
 </html>

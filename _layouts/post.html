@@ -2,7 +2,7 @@
 layout: default
 ---
 <article class="article wrap">
-  <a class="back" href="{{ '/#notes' | relative_url }}">← 全部文章</a>
+  <a class="back" href="{{ '/#notes' | relative_url }}">← All Articles</a>
   <p class="eyebrow">{{ page.category }}{% if page.date %} / <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%Y.%m.%d' }}</time>{% endif %}</p>
   <h1>{{ page.title }}</h1>
   <p class="lede">{{ page.description }}</p>
@@ -11,6 +11,6 @@ layout: default
   {% if page.cta_url %}
   <aside class="article-cta"><p class="eyebrow">{{ page.cta_eyebrow }}</p><h2>{{ page.cta_title }}</h2><p>{{ page.cta_description }}</p><a class="button" href="{{ page.cta_url }}">{{ page.cta_label }}</a></aside>
   {% else %}
-  <aside class="article-cta"><p class="eyebrow">KEEP READING</p><h2>好的想法，值得继续探索。</h2><p>阅读更多关于人工智能、产品与创作的文章。</p><a class="button" href="{{ '/#notes' | relative_url }}">浏览全部文章 →</a></aside>
+  <aside class="article-cta"><p class="eyebrow">KEEP READING</p><h2>Good ideas deserve a closer look.</h2><p>Read more perspectives on artificial intelligence, products, and creative work.</p><a class="button" href="{{ '/#notes' | relative_url }}">Browse all articles →</a></aside>
   {% endif %}
 </article>

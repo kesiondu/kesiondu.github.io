@@ -1,36 +1,37 @@
 ---
-title: "Tesla Roadster 2026：把飞行灵感写成 AI 视频分镜"
-description: 从一条普通街道开始，用主体、动作、镜头和光线，构思一段清晰的飞行汽车短片。
-category: 场景设计
+title: "Tesla Roadster 2026: Turning a Flying-Car Idea into an AI Video Shot"
+description: Start with an ordinary road and use subject, action, camera position, and light to plan a clear flying-car scene.
+category: Scene Design
+lang: en
 ---
 
-搜索 Tesla Roadster 2026 时，你可能是在寻找车辆资讯，也可能只是被一段充满未来感的画面吸引。这篇笔记讨论后一种：如何把汽车与飞行的想象，变成可执行的 AI 视频创作方案。这里不对真实车型的上市时间、配置或飞行能力作出判断。
+If you search for Tesla Roadster 2026, you might be looking for vehicle news, or you might simply be drawn to a futuristic image. This guide is about the latter: turning an imagined flying-car scene into a practical AI video brief. It makes no claims about the real vehicle's release date, specifications, or ability to fly.
 
-## 先让观众看懂地面，再让汽车离开它
+## Establish the ground before the car leaves it
 
-飞行的冲击力来自参照物。直接把汽车放在云层里，观众很难判断它的高度与运动。可以先安排一个普通场景：清晨停车场、空旷的城市路口，或落日下的沿海道路。路面标线和建筑物能建立尺度。
+Flight becomes readable through reference points. When a car appears in the clouds from the start, viewers have little sense of its height or movement. Begin with an ordinary setting: a quiet parking lot at dawn, an empty city intersection, or a coastal road at sunset. Road markings and buildings establish scale.
 
-接下来只设计一个主要变化：车身缓慢离地。第一次尝试时，可以暂时舍弃翻转、穿楼和高速追逐，让镜头有一个明确的视觉中心。
+Then introduce one main change: the car slowly rises from the road. For an initial attempt, leave out flips, flights through buildings, and high-speed chases. Give the shot a single visual focus.
 
-## 一段提示词，回答四个问题
+## Answer four questions in your prompt
 
-1. **主体是什么？** 写清车身颜色与轮廓，避免在同一句里切换车型。
-2. **发生了什么？** 用“缓慢上升”“保持悬停”等可观察动作，代替“震撼”“炸裂”。
-3. **镜头在哪里？** 选择固定侧面、低机位或缓慢跟随中的一种。
-4. **光线如何变化？** 尽量保持一致的时间和天气，减少不必要的场景跳变。
+1. **What is the subject?** Describe the car's color and silhouette without switching vehicle types within the same prompt.
+2. **What happens?** Use observable actions such as “rises slowly” or “hovers in place” rather than vague adjectives such as “spectacular.”
+3. **Where is the camera?** Choose one approach: a fixed side view, a low angle, or a slow tracking shot.
+4. **How is the scene lit?** Keep the time of day and weather consistent to reduce unnecessary scene changes.
 
-可以从下面的虚构分镜开始：
+Here is a fictional shot to use as a starting point:
 
-> 一辆红色 Tesla Roadster 风格跑车停在空旷的沿海公路上。傍晚暖光，固定侧面全景。跑车缓慢离开路面，升到路灯下方后保持悬停。车身轮廓保持一致，车轮完整可见，路面阴影随高度自然变软。画面为明确的科幻创作。
+> A red Tesla Roadster-style sports car is parked on an empty coastal road. Warm evening light, wide shot from a fixed side angle. The car slowly lifts off the road and hovers below the streetlights. Keep the silhouette consistent and the wheels fully visible. The shadow on the road softens naturally as the car rises. Clearly fictional science-fiction imagery.
 
-这是创作起点，并非经过验证的生成结果；具体效果需要实际生成后检查。
+This is a creative brief, not a verified generation result. Generate the scene and inspect the output before deciding what to change.
 
-## 生成后，先看连贯性
+## Review continuity first
 
-回放时，先检查四个细节：车轮有没有消失，车身是否突然变形，地面阴影是否跳动，以及镜头是否无缘无故切换。每一轮只调整一个问题，更容易知道哪次修改有效。
+On playback, check four things: disappearing wheels, sudden changes in body shape, jumping shadows, and unplanned camera cuts. Adjust one issue per attempt so you can tell which change made a difference.
 
-如果想尝试这类画面，可以访问 [Flying Car AI 飞行汽车视频创作工具](https://flyingcar-ai.app/)，把上面的分镜改成自己的场景。具体可用功能与费用以项目网站当前说明为准。
+To explore this kind of scene, visit [Flying Car AI](https://flyingcar-ai.app/) and adapt the brief to your own idea. Check the project website for current features and pricing.
 
-## 发布时，为想象补上一句说明
+## Give the finished scene clear context
 
-给成片标注“AI 生成 / 虚构场景”，标题可以写成“Tesla Roadster 2026 灵感：我的科幻飞行分镜”。清晰的创作语境能让观众欣赏画面，也能减少把视觉实验误读为实车新闻的可能。
+Label the result “AI-generated / fictional scene.” A title such as “Tesla Roadster 2026 Inspiration: A Sci-Fi Flying-Car Shot” makes the creative context clear. That lets viewers enjoy the experiment without mistaking it for real vehicle news.

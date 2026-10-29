@@ -1,33 +1,34 @@
 # Kesion Journal
 
-专业个人博客，主题涵盖 AI、数字产品与创作实践。
+An independent English-language blog about AI, digital products, and creative work.
 
-- 网站：https://kesiondu.github.io/
-- 关联项目：https://flyingcar-ai.app/
-- 使用 GitHub Pages 内置 Jekyll 构建；无需本地安装依赖即可在 GitHub 编辑发布。
+- Website: https://kesiondu.github.io/
+- Projects: https://trendvido.com/ and https://flyingcar-ai.app/
+- Built with Jekyll on GitHub Pages.
 
-## 发布文章
+## Publish an article
 
-在 `_posts/` 创建 `YYYY-MM-DD-english-slug.md`，参考现有文章填写：
+Create `_posts/YYYY-MM-DD-english-slug.md` with YAML front matter:
 
 ```yaml
 ---
-title: 文章标题
-description: 一句话摘要
-category: 创作笔记
+title: Article title
+description: A concise summary.
+category: Creative Practice
+lang: en
 ---
 ```
 
-下面使用 Markdown 写正文，提交到 main 后自动发布。文章日期不能晚于站点当天日期。使用原创内容，在相关段落自然插入项目链接。
+Write the article in Markdown and commit it to `main`. GitHub Pages publishes changes automatically. Use a publication date no later than the current site date. Keep all public content and metadata in English.
 
-## 编辑网站
+## Site structure
 
-- `_config.yml`：站名、简介、域名。
-- `index.html`：首页。
-- `projects.md`：项目介绍与外链。
-- `assets/style.css`：响应式样式。
-- `_layouts/`：页面布局。
+- `_config.yml`: Site title, description, language, and URL.
+- `index.html`: Homepage and article archive.
+- `projects.md`: Project descriptions and links.
+- `assets/style.css`: Responsive styles.
+- `_layouts/`: Page templates.
 
-GitHub 仓库 Settings → Pages 应配置为 Deploy from a branch，main 分支的根目录。Jekyll 自动生成 canonical、站点地图与 RSS。代码仓库为公开仓库。
+Configure Settings → Pages to deploy from the root of `main`. Jekyll generates canonical URLs, a sitemap, and an RSS feed. Keep the Google Search Console verification file in the repository root.
 
-网站部署成功不等于被搜索引擎收录，也不保证外链排名效果。后续可以在 Google Search Console 验证站点后提交 sitemap.xml。
+A successful deployment does not guarantee search indexing or rankings.

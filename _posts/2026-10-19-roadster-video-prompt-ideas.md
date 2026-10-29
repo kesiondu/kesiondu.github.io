@@ -1,37 +1,38 @@
 ---
-title: "三个 Roadster AI 视频创意：从雨夜街口到海边起飞"
-description: 用三种不同的空间关系练习镜头设计，每次只改变一个关键动作。
-category: 提示词笔记
+title: "Three Roadster AI Video Ideas: Rainy Streets, Coastal Flight, and a Quiet Garage"
+description: Practice scene design with three different settings, changing one key action at a time.
+category: Prompt Notes
+lang: en
 ---
 
-为 Tesla Roadster 2026 主题短片找灵感，不一定要从复杂特效开始。把地点、动作与视角组合起来，就能得到三个风格不同的虚构分镜。下面的内容是创作建议，不是实车记录，也不是已生成作品的效果承诺。
+A Tesla Roadster 2026-inspired short does not have to start with elaborate effects. Combine a location, an action, and a camera angle to create three distinct fictional shots. These are creative suggestions, not records of a real vehicle or promises about generated results.
 
-## 01 / 雨夜街口：让反射讲故事
+## 01 / A rainy street: let reflections tell the story
 
-雨后的道路自带两层画面：汽车本身，以及水中的倒影。先让车保持静止，随后轻轻抬升，倒影与车身之间出现距离，就能表达离地感。
+A road after rain offers two layers: the car and its reflection. Start with the vehicle stationary, then let it rise gently. The growing distance between the body and its reflection helps communicate lift.
 
-> 深蓝色未来跑车，雨后空旷街口，地面有浅水反射。固定低机位，车身缓慢上升，暖色路灯映在湿润路面上。保持同一辆车、同一方向和稳定背景。科幻 AI 影像。
+> A dark-blue futuristic sports car at an empty intersection after rain. Shallow puddles reflect the vehicle. Fixed low-angle camera. The car rises slowly as warm streetlights reflect on the wet road. Keep the same car, direction, and stable background throughout. Fictional AI-generated science-fiction footage.
 
-检查重点：倒影是否仍然对应车身位置。反射通常比灯光数量更值得花时间调整。
+Check whether the reflection still corresponds to the car's position. Consistent reflections deserve more attention than adding extra lights.
 
-## 02 / 海边公路：用地平线保持方向
+## 02 / A coastal road: use the horizon to establish direction
 
-海面和地平线能帮助观众感知姿态。让画面保留一部分道路，不要一开始就把汽车放到很高的位置。
+The sea and horizon help viewers judge orientation. Keep some of the road in frame rather than placing the car high in the sky immediately.
 
-> 银色运动跑车停在海边公路旁，阴天柔光，远处是平静海面。侧面中远景，汽车平稳升起并短暂悬停，镜头不旋转，地平线保持水平。虚构未来交通场景。
+> A silver sports car beside a coastal road, soft overcast light, calm sea in the distance. Medium-wide side view. The car rises steadily and briefly hovers. The camera does not rotate, and the horizon remains level. A fictional future-transport scene.
 
-检查重点：汽车是否在上升时突然缩小，或与背景一起漂移。如果出现问题，先取消跟拍，改为固定镜头。
+Watch for a car that suddenly shrinks during takeoff or drifts along with the background. If that happens, simplify the shot by replacing the tracking camera with a fixed view.
 
-## 03 / 空旷车库：用简单背景观察形体
+## 03 / An empty garage: use a simple background to examine shape
 
-复杂城市画面容易掩盖主体问题。车库可以把注意力集中在车轮、车身边缘以及离地阴影上。
+A busy city can conceal problems with the subject. An empty garage directs attention to the wheels, body edges, and shadow beneath the car.
 
-> 红色跑车位于整洁的空旷车库，柔和顶光，三分之二前侧视角。车身轻微离地后保持稳定，四轮结构清楚，背景静止，无其他车辆或人物。科幻概念短片。
+> A red sports car in a clean, empty garage, soft overhead lighting, front three-quarter view. The car lifts slightly from the floor and holds steady. All four wheels retain clear structure. The background remains still, with no other vehicles or people. A fictional science-fiction concept clip.
 
-检查重点：前后轮尺寸是否一致，车身线条是否在运动中保持连续。
+Check wheel proportions and whether the body lines remain continuous throughout the movement.
 
-## 从一个分镜开始实践
+## Put one shot into practice
 
-挑一个场景，保留简单动作，把车型描述、配色和光线改成你自己的版本。你可以在 [Flying Car AI](https://flyingcar-ai.app/) 中探索飞行汽车视频创作，也可以先阅读 [Roadster 分镜入门](/notes/tesla-roadster-2026-ai-video/)，再整理提示词。
+Choose a setting, keep the action simple, and adapt the vehicle description, color, and lighting to your own idea. Explore flying-car video creation with [Flying Car AI](https://flyingcar-ai.app/), or read the [Roadster shot-planning guide](/notes/tesla-roadster-2026-ai-video/) before refining your prompt.
 
-分享时建议在画面或说明中标注 AI 生成；使用参考照片前，确认自己有权使用图片。
+Label the video as AI-generated when sharing it, and make sure you have permission to use any reference images.
