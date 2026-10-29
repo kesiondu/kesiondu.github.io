@@ -1,6 +1,6 @@
-# Roadster 2026 Notes
+# Kesion Journal
 
-中文原创博客，主题为 Tesla Roadster 2026 与飞行汽车 AI 视频创作。
+专业个人博客，主题涵盖 AI、数字产品与创作实践。
 
 - 网站：https://kesiondu.github.io/
 - 关联项目：https://flyingcar-ai.app/

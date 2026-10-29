@@ -1,15 +1,23 @@
 ---
-title: 关于这本创作笔记
+title: 关于 Kesion Journal
 permalink: /about/
 layout: post
-description: 记录想法，拆解镜头，把未来感写成具体的创作步骤。
-category: 关于博客
+description: 关于人工智能、数字产品与创作实践的独立记录。
+category: 关于
 ---
 
-Roadster 2026 Notes 由 GitHub 用户 [kesiondu](https://github.com/kesiondu) 维护，聚焦 Tesla Roadster 2026 主题下的 AI 视频创作。
+Kesion Journal 由 [kesiondu](https://github.com/kesiondu) 维护，是一本持续更新的个人博客。
 
-这里分享场景构思、提示词与画面检查方法，并介绍关联项目 [Flying Car AI](https://flyingcar-ai.app/)。项目链接属于站长项目介绍。
+## 这里写什么
 
-本站是独立创作博客，与 Tesla, Inc. 无关联。教程中的飞行设想和概念插画是虚构表达；本站不将 AI 画面作为车辆真实性能或产品发布信息的证据。
+- **人工智能**：从模型能力到真实工作流，关注技术如何被使用。
+- **产品观察**：讨论工具、体验与把想法变成产品的过程。
+- **创作实践**：分享视频、内容与数字作品的制作方法。
 
-可以通过 [RSS](/feed.xml) 订阅后续笔记。
+博客从具体的创作实验开始，也会继续扩展到更广泛的技术与产品话题。已有的 Roadster 主题文章是创作实践的一部分。
+
+## 项目与链接
+
+在[项目页](/projects/)可以找到博客介绍的相关工具。文章中的项目链接会保留其上下文；涉及 AI 生成的画面，会与真实事件或产品事实作出区分。
+
+通过 [RSS](/feed.xml) 订阅更新，或访问我的 [GitHub](https://github.com/kesiondu)。
